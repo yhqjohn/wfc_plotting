@@ -1,0 +1,15 @@
+﻿lambda,Send,Scale,F1,Purity,Running Time (s),eq,eq2
+0.01,626,579,0.809896061,0.946921138,6942.925428,$sim^s_{min} = (1+\lambda)^s sim_{min}$,WFC
+0.02,315,292,0.804493838,0.989142857,3436.843726,$sim^s_{min} = (1+\lambda)^s sim_{min}$,WFC
+0.04,159,148,0.804493838,0.989142857,1768.117123,$sim^s_{min} = (1+\lambda)^s sim_{min}$,WFC
+0.05,127,119,0.804493838,0.989142857,1447.908046,$sim^s_{min} = (1+\lambda)^s sim_{min}$,WFC
+0.06,107,100,0.782570,0.966000,1216.651589,$sim^s_{min} = (1+\lambda)^s sim_{min}$,WFC
+0.1,65,61,0.795522327,0.881045685,768.3904650,$sim^s_{min} = (1+\lambda)^s sim_{min}$,WFC
+0.5,15,15,0.365677538,0.342796086,176.7789481,$sim^s_{min} = (1+\lambda)^s sim_{min}$,WFC
+0.01,25,25,0.78795717,0.88056067,308.4744530,$sim^s_{min} = (1+\lambda)^{s^2} sim_{min}$,Hyperexponential
+0.02,17,17,0.091024447,0.049400,231.2654769,$sim^s_{min} = (1+\lambda)^{s^2} sim_{min}$,Hyperexponential
+0.04,12,12,0.091024447,0.049400,156.7224128,$sim^s_{min} = (1+\lambda)^{s^2} sim_{min}$,Hyperexponential
+0.05,11,11,0.091024447,0.049400,137.7196450,$sim^s_{min} = (1+\lambda)^{s^2} sim_{min}$,Hyperexponential
+0.06,10,10,0.091024447,0.049400,125.0045168,$sim^s_{min} = (1+\lambda)^{s^2} sim_{min}$,Hyperexponential
+0.1,8,8,0.091024447,0.049400,104.7290559,$sim^s_{min} = (1+\lambda)^{s^2} sim_{min}$,Hyperexponential
+0.5,3,3,0.091024447,0.049400,40.89101791,$sim^s_{min} = (1+\lambda)^{s^2} sim_{min}$,Hyperexponential
