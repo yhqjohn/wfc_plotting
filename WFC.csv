@@ -1,4 +1,4 @@
-﻿lambda,Send,Scale,F1,Purity,Running Time (s),eq,eq2
+lambda,Send,Scale,F1,Purity,Running Time (s),eq,eq2
 0.01,626,579,0.809896061,0.946921138,6942.925428,$sim^s_{min} = (1+\lambda)^s sim_{min}$,WFC
 0.02,315,292,0.804493838,0.989142857,3436.843726,$sim^s_{min} = (1+\lambda)^s sim_{min}$,WFC
 0.04,159,148,0.804493838,0.989142857,1768.117123,$sim^s_{min} = (1+\lambda)^s sim_{min}$,WFC
